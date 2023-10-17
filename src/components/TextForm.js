@@ -114,7 +114,7 @@ function TextForm(props) {
         </div>
 
         <button className="btn btn-primary mx-1 my-1" onClick={handleUpClick} disabled={text.length === 0}>
-          Convert to Uppercase
+          Convert to Uppercase 
         </button>
 
         <button className="btn btn-primary mx-1 my-1" onClick={handleLoClick} disabled={text.length === 0}>
